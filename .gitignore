@@ -1,0 +1,7 @@
+*~
+*.pyc
+*.pdf
+*.rpy
+tests/*
+doc/example_code/models/workdir/*
+doc/_build/*
